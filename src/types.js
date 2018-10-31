@@ -1,0 +1,8 @@
+export const HELLOW_WORLD = 'HELLOW_WORLD';
+export const ADD_COUNTER = 'ADD_COUNTER';
+export const REDUCE_COUNTER = 'REDUCE_COUNTER';
+export const RESET_COUNTER = 'RESET_COUNTER';
+export const DOBLE_COUNTER = 'DOBLE_COUNTER';
+
+export const INCREMENT = 'INCREMENT'
+export const INCREMENT_ASYNC = 'INCREMENT_ASYNC'
